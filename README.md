@@ -75,7 +75,7 @@ My Github Activity
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishnu-Deepan&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vishnu-Deepan&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 
