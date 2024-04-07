@@ -12,8 +12,8 @@ About me
 <div align="center">
   <img height="400" src="https://4kwallpapers.com/images/walls/thumbs_3t/5947.png"  />
   <BR>
-  <h1>TAKE A LOOK AT MY PROJECTS ON : </h1>
-  <h3><a src="https://github.com/Vishnu-Deepan?tab=repositories">Vishnu-Deepan Repositories</h3>
+  <h1>TAKE A LOOK AT MY PROJECTS ON : <a href="https://github.com/Vishnu-Deepan?tab=repositories">Vishnu-Deepan Repositories</a></h1>
+  <br>
 </div>
 
 
