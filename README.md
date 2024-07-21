@@ -57,6 +57,9 @@ Connect with Me
 
 <br>
 <div align="center">
+   <a href="https://leetcode.com/u/vishnudeepan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=vishnudeepan&color=F9D34F&logoColor=white&labelColor=F9D34F&style=for-the-badge" height="35" alt="leetcode logo" /><br>
+  </a>
   <a href="https://www.linkedin.com/in/vishnu-deepan-p/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=vishnu-deepan-p&color=0077B5&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  /><br>
   </a>
